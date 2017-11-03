@@ -51,7 +51,7 @@ def heading():
     '\n' + '{0}Kick Devices Off Your LAN ({1}KickThemOut{2}){3}'.format(YELLOW, RED, YELLOW, BLUE).center(98) +
     '\n' + 'Made With <3 by: {0}Nikolaos Kamarinakis ({1}k4m4{2}) & {0}David Schütz ({1}xdavidhu{2}){3}'.format(
         YELLOW, RED, YELLOW, BLUE).center(111) +
-    '\n' + 'Version: {0}0.1{1}\n'.format(YELLOW, END).center(86))
+    '\n' + 'Version: {0}0.1.1{1}\n'.format(YELLOW, END).center(86))
 
 
 
