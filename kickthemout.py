@@ -6,6 +6,7 @@
 """
 Copyright (C) 2016 Nikolaos Kamarinakis (nikolaskam@gmail.com) & David Schütz (xdavid@protonmail.com)
 See License at nikolaskama.me (https://nikolaskama.me/kickthemoutproject)
+
 """
 
 import time, os, sys, logging, math
